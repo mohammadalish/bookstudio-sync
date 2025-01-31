@@ -1,7 +1,8 @@
+
 .venv
 .env
-alembic.ini
-alembic/
+# alembic.ini
+alembic/versions
 __pycache__/
 *.py[cod]
 *$py.class
